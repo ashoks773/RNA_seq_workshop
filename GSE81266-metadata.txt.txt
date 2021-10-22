@@ -1,0 +1,78 @@
+Sample_geo_accession	Sample Title	Sex	age	diagnosis	ethnicity	patient	prognosis	tissue
+GSM2147897	NH1	male	30	Ulcerative colitis	Caucasian	P427	Healthy	Prepouch ileum
+GSM2147875	EC4	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Prepouch ileum
+GSM2147947	NH64	missing	missing	Normal	Caucasian	IL1	Healthy	Ile
+GSM2147934	NH60	male	missing	Ulcerative colitis	Caucasian	P607	Healthy	Prepouch ileum
+GSM2147876	EC5	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Ileal pouch
+GSM2147901	NH23	male	47	Ulcerative colitis	South Indian	P505	Healthy	Ileal pouch
+GSM2147903	NH26	female	30	Ulcerative colitis	Africa American	P506	Pouchitis	Prepouch ileum
+GSM2147879	EC8	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Prepouch ileum
+GSM2147888	NH10	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Ileal pouch
+GSM2147918	NH41	female	51	Ulcerative colitis	Caucasian	P510	Pouchitis	Ileal pouch
+GSM2147927	NH50	female	missing	Ulcerative colitis	Caucasian	P600	Pouchitis	Prepouch ileum
+GSM2147917	NH40	female	51	Ulcerative colitis	Caucasian	P510	Pouchitis	Prepouch ileum
+GSM2147944	EC11b	female	missing	Ulcerative colitis	Caucasian	P502	Pouchitis	Ileal pouch
+GSM2147886	EC15	male	missing	Ulcerative colitis	Caucasian	P603	Healthy	Ileal pouch
+GSM2147940	NH62	missing	missing	FAP	Caucasian	P701	FAP	Prepouch ileum
+GSM2147885	EC14	female	missing	Ulcerative colitis	Caucasian	P602	Healthy	Prepouch ileum
+GSM2147941	NH63	missing	missing	FAP	Caucasian	P701	FAP	Ileal pouch
+GSM2147915	NH39	male	18	Ulcerative colitis	Caucasian	P509	Healthy	Ileal pouch
+GSM2147893	NH15	female	30	Ulcerative colitis	Caucasian	P503	Healthy	Prepouch ileum
+GSM2147930	NH53	female	missing	Ulcerative colitis	Caucasian	P600	Pouchitis	Ileal pouch
+GSM2147899	NH21	male	47	Ulcerative colitis	South Indian	P505	Healthy	Ileal pouch
+GSM2147919	NH42	male	38	Ulcerative colitis	Caucasian	P511	Healthy	Prepouch ileum
+GSM2147889	NH11	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Ileal pouch
+GSM2147873	EC2	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Prepouch ileum
+GSM2147920	NH43	male	38	Ulcerative colitis	Caucasian	P511	Healthy	Prepouch ileum
+GSM2147922	NH45	male	38	Ulcerative colitis	Caucasian	P511	Healthy	Ileal pouch
+GSM2147925	NH49	male	59	Ulcerative colitis	Caucasian	P513	Healthy	Ileal pouch
+GSM2147932	NH58	male	missing	Ulcerative colitis	Caucasian	P604	Healthy	Ileal pouch
+GSM2147914	NH38	male	18	Ulcerative colitis	Caucasian	P509	Healthy	Prepouch ileum
+GSM2147904	NH27	female	30	Ulcerative colitis	Africa American	P506	Pouchitis	Ileal pouch
+GSM2147891	NH13	female	30	Ulcerative colitis	Caucasian	P503	Healthy	Prepouch ileum
+GSM2147916	NH3	male	30	Ulcerative colitis	Caucasian	P427	Healthy	Prepouch ileum
+GSM2147929	NH52	female	missing	Ulcerative colitis	Caucasian	P600	Pouchitis	Ileal pouch
+GSM2147937	NH7	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Prepouch ileum
+GSM2147881	EC10	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Prepouch ileum
+GSM2147938	NH8	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Prepouch ileum
+GSM2147892	NH14	female	30	Ulcerative colitis	Caucasian	P503	Healthy	Prepouch ileum
+GSM2147898	NH20	male	47	Ulcerative colitis	South Indian	P505	Healthy	Prepouch ileum
+GSM2147883	EC12	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Prepouch ileum
+GSM2147945	EC13b	female	missing	Ulcerative colitis	Caucasian	P602	Healthy	Ileal pouch
+GSM2147942	NH54	male	missing	FAP	Caucasian	P601	FAP	Prepouch ileum
+GSM2147884	EC13	female	missing	Ulcerative colitis	Caucasian	P602	Healthy	Ileal pouch
+GSM2147902	NH24	female	30	Ulcerative colitis	Africa American	P506	Pouchitis	Prepouch ileum
+GSM2147923	NH47	male	42	Ulcerative colitis	Caucasian	P512	Healthy	Ileal pouch
+GSM2147906	NH29	female	30	Ulcerative colitis	Africa American	P506	Pouchitis	Ileal pouch
+GSM2147911	NH35	female	26	Ulcerative colitis	Caucasian	P508	Healthy	Prepouch ileum
+GSM2147900	NH22	male	47	Ulcerative colitis	South Indian	P505	Healthy	Ileal pouch
+GSM2147921	NH44	male	38	Ulcerative colitis	Caucasian	P511	Healthy	Ileal pouch
+GSM2147895	NH18	female	30	Ulcerative colitis	Caucasian	P503	Healthy	Ileal pouch
+GSM2147910	NH34	female	26	Ulcerative colitis	Caucasian	P508	Healthy	Prepouch ileum
+GSM2147905	NH28	female	30	Ulcerative colitis	Africa American	P506	Pouchitis	Ileal pouch
+GSM2147913	NH37	female	26	Ulcerative colitis	Caucasian	P508	Healthy	Ileal pouch
+GSM2147936	NH6	male	30	Ulcerative colitis	Caucasian	P427	Healthy	Ileal pouch
+GSM2147874	EC3	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Ileal pouch
+GSM2147909	NH32	male	21	Ulcerative colitis	Caucasian	P507	Pouchitis	Ileal pouch
+GSM2147924	NH48	male	59	Ulcerative colitis	Caucasian	P513	Healthy	Prepouch ileum
+GSM2147946	EC14b	female	missing	Ulcerative colitis	Caucasian	P602	Healthy	Prepouch ileum
+GSM2147933	NH59	male	missing	Ulcerative colitis	Caucasian	P604	Healthy	Ileal pouch
+GSM2147890	NH12	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Ileal pouch
+GSM2147877	EC6	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Prepouch ileum
+GSM2147894	NH17	female	30	Ulcerative colitis	Caucasian	P503	Healthy	Ileal pouch
+GSM2147907	NH2	male	30	Ulcerative colitis	Caucasian	P427	Healthy	Prepouch ileum
+GSM2147896	NH19	male	47	Ulcerative colitis	South Indian	P505	Healthy	Prepouch ileum
+GSM2147878	EC7	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Ileal pouch
+GSM2147908	NH30	male	21	Ulcerative colitis	Caucasian	P507	Pouchitis	Prepouch ileum
+GSM2147935	NH61	male	missing	Ulcerative colitis	Caucasian	P607	Healthy	Ileal pouch
+GSM2147926	NH4	male	30	Ulcerative colitis	Caucasian	P427	Healthy	Ileal pouch
+GSM2147939	NH9	male	25	Ulcerative colitis	Caucasian	P501	Healthy	Prepouch ileum
+GSM2147887	EC16	male	missing	Ulcerative colitis	Caucasian	P603	Healthy	Prepouch ileum
+GSM2147880	EC9	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Ileal pouch
+GSM2147931	NH56	male	missing	Ulcerative colitis	Caucasian	P604	Healthy	Prepouch ileum
+GSM2147928	NH51	female	missing	Ulcerative colitis	Caucasian	P600	Pouchitis	Prepouch ileum
+GSM2147943	NH55	male	missing	FAP	Caucasian	P601	FAP	Ileal pouch
+GSM2147912	NH36	female	26	Ulcerative colitis	Caucasian	P508	Healthy	Ileal pouch
+GSM2147882	EC11	female	39	Ulcerative colitis	Caucasian	P502	Pouchitis	Ileal pouch
+GSM2147948	NH65	missing	missing	Normal	Caucasian	IL2	Healthy	Ile
+GSM2147872	EC1	male	28	Ulcerative colitis	Caucasian	P500	Pouchitis	Ileal pouch
