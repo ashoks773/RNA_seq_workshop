@@ -1,5 +1,5 @@
 # RNA_seq_workshop
-This project contains the data and script which was used to conduct a RNA-seq workshop at ChemBioIT
+This project contains the data and script which was used to conduct a RNA-seq workshop.
 
 #- Follwoing files are included
 A python script to process RNA-seq data
